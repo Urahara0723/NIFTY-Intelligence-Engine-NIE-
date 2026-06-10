@@ -165,7 +165,6 @@ Predicts future stock returns.
 ### Algorithm
 
 * XGBoost Regressor
-* XGBoost Classfier
 
 ### Evaluation Metrics
 
