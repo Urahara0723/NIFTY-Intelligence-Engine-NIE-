@@ -29,7 +29,7 @@ Unlike traditional stock prediction systems, this project focuses on **investmen
 
 🚀 Try the application here:
 
-**https://your-app-name.streamlit.app**
+**https://nifty-intelligence-engine.streamlit.app/**
 
 ---
 # 🌐 Domain
